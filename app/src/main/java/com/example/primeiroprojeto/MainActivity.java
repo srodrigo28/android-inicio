@@ -1,4 +1,4 @@
-package com.example.fundamentos;
+package com.example.primeiroprojeto;
 
 import androidx.appcompat.app.AppCompatActivity;
 
