@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/src/dev_prod/android/android-inicio/app/src/main/res/layout/activity_main.xml" value="0.16757246376811594" />
+        <entry key="..\:/src/dev_prod/android/android-inicio/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/src/dev_prod/android/android-inicio/app/src/main/res/layout/activity_segundo.xml" value="0.3491847826086957" />
+        <entry key="..\:/src/dev_prod/android/android-inicio/app/src/main/res/layout/activity_terceira.xml" value="0.3491847826086957" />
       </map>
     </option>
   </component>
